@@ -1,5 +1,5 @@
 {
-  "files": {
-    "includes": ["**", "!**/dist"]
-  }
+	"files": {
+		"includes": ["**", "!**/dist"]
+	}
 }

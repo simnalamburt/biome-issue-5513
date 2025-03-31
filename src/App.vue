@@ -1,6 +1,6 @@
 <script setup lang=ts>
 // It's clearly a TypeScript block, but Biome fails to recognize it.
-let num: number = 42
+let num: number = 42;
 </script>
 
 <template>
